@@ -1,0 +1,11 @@
+1. Chart (MP Chart): https://www.youtube.com/watch?v=MiVx3AQD_PI&list=PLc2rvfiptPSR7NliWRLwweX55XwrsrTOO
+2. MVVM: https://www.youtube.com/watch?v=67bdklHmXA8&list=PLk7v1Z2rk4hjVaZ8DZKe8iT9RIM9OUrwp
+3. Firebase tutorial with MVVM: https://www.youtube.com/watch?v=kXYalWgc_rU&list=PLk7v1Z2rk4hg3cbALQuTQOTgpZ9e9T8bi  
+4. JSON: https://www.youtube.com/c/SimplifiedcodingNetOfficial/videos
+5. Google Signin: 
+    - https://developers.google.com/identity/sign-in/android/sign-in
+    - https://medium.com/fw-engineering/authenticate-with-google-sign-in-6ee99538d37f
+6. Kotlin: 
+    - https://fabiomsr.github.io/from-java-to-kotlin/
+    - https://kotlinlang.org/docs/reference/basic-types.html
+7. Error Handling: https://www.youtube.com/watch?v=5yelgZhFDpQ
